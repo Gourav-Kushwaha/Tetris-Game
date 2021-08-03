@@ -1,3 +1,3 @@
 # Tetris-Project
 It's a basic arcade game. Developed using HTML, CSS and JavaScript.
-Access Link: https://gktetrisproject.netlify.app/
+Game can be accessed here: https://gourav-kushwaha.github.io/Tetris-Game/
